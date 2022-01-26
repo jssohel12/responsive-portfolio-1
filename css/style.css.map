@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,SAAS,CAAA;EAED,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/pages/_index.scss",
+        "../sass/components/_navbar.scss",
+        "../sass/components/_manu.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
